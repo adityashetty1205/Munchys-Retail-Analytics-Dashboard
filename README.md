@@ -2,7 +2,8 @@
 
 A business intelligence project aimed at optimizing product bundling and logistics for Munchy's, a fictional e-commerce pet supply store. This dashboard was developed in **Tableau** to provide deep insights into product performance, customer preferences, regional revenue distribution, and cost dynamics.
 
-#📌 **Objective**: Use data analytics to improve Munchy’s profitability, identify top-performing products, uncover regional demand patterns, and optimize shipping & pricing strategies.
+📌 **Objective**:
+Use data analytics to improve Munchy’s profitability, identify top-performing products, uncover regional demand patterns, and optimize shipping & pricing strategies.
 
 ---
 
